@@ -9,7 +9,7 @@
   "author": "manoj@bloq.com",
   "license": "ISC",
   "dependencies": {
-    "bip39": "^3.0.2",
+    "bip39": "^3.0.4",
     "ethers": "^4.0.39",
     "qtumjs-wallet": "^0.2.1"
   },
