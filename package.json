@@ -11,7 +11,7 @@
   "dependencies": {
     "bip39": "^3.0.2",
     "ethers": "^4.0.39",
-    "qtumjs-wallet": "^0.2.1"
+    "qtumjs-wallet": "^0.2.6"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
